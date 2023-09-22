@@ -1,0 +1,13 @@
+:root{
+    --color-one: #8261ee;
+    --color-two: #FF589E;
+    --color-text: #1e1e1e;
+
+}
+body{
+    color: var(--color-text);
+}
+a:hover{
+    text-decoration: none;
+    color: #FF6C8B;
+}
